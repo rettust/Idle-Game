@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9ece1ef545d2c429bb9285ddb776e3, type: 3}
+  m_Name: Floor1
+  m_EditorClassIdentifier: 
+  enemies:
+  - enemyStrengthStat: 0.2
+    enemyDefStat: 0.5
+    enemyTotalHP: 10
+    enemyName: Meri & Penny
+    enemySprite: {fileID: 21300000, guid: 7c96686d3673b0344a7e6c58f38633db, type: 3}
+    weight: 25
+  - enemyStrengthStat: 0.3
+    enemyDefStat: 0.5
+    enemyTotalHP: 10
+    enemyName: Karate Master Emily
+    enemySprite: {fileID: 21300000, guid: 5e784c800ff03e54cafabd204f6d1797, type: 3}
+    weight: 25
+  - enemyStrengthStat: 69
+    enemyDefStat: 69
+    enemyTotalHP: 69
+    enemyName: God Gamer Tom
+    enemySprite: {fileID: 21300000, guid: 33257ce3dfc7f444ba4d0ecd457caa91, type: 3}
+    weight: 25
+  - enemyStrengthStat: 0.5
+    enemyDefStat: 0.1
+    enemyTotalHP: 10
+    enemyName: Abby
+    enemySprite: {fileID: 21300000, guid: 3b706be56d249d84aac56a7ddef1e829, type: 3}
+    weight: 25
+  - enemyStrengthStat: 1
+    enemyDefStat: 1
+    enemyTotalHP: 5
+    enemyName: The Fuckinator
+    enemySprite: {fileID: 21300000, guid: 9f562b7f96d16ad4f9b8072cfd8f0501, type: 3}
+    weight: 25

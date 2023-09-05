@@ -1,0 +1,4 @@
+repository "Untitled Idle Game@Ownage_Inc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
